@@ -4,9 +4,9 @@ I planned on using an existing steamlit ui and add my code to it.
 The streamlit doesnt work for now please use the colab notebook to run the code.
 https://colab.research.google.com/drive/18iHI3xTL5yV7J8Ao3f7CA3iTd1Ga4BBG?usp=sharing
 
-Indic Be My Eyes
+**Indic Be My Eyes***
 Project Overview
-Indic Be My Eyes is an AI-powered visual assistance application designed specifically for users who speak Indic languages. This application leverages advanced AI models and APIs to provide real-time assistance by converting audio input into text, generating captions for images, and translating them into the user's preferred Indic language. The application aims to empower visually impaired individuals by providing them with a reliable tool to understand their surroundings through voice interactions.
+- Indic Be My Eyes is an AI-powered visual assistance application designed specifically for users who speak Indic languages. This application leverages advanced AI models and APIs to provide real-time assistance by converting audio input into text, generating captions for images, and translating them into the user's preferred Indic language. The application aims to empower visually impaired individuals by providing them with a reliable tool to understand their surroundings through voice interactions.
 
 Key Features
 - Audio to Text Conversion: Utilizes the Sarvam Audio to Text Translate API to convert audio input from the user into text.

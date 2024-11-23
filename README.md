@@ -6,10 +6,10 @@ Project Overview
 Indic Be My Eyes is an AI-powered visual assistance application designed specifically for users who speak Indic languages. This application leverages advanced AI models and APIs to provide real-time assistance by converting audio input into text, generating captions for images, and translating them into the user's preferred Indic language. The application aims to empower visually impaired individuals by providing them with a reliable tool to understand their surroundings through voice interactions.
 
 Key Features
-Audio to Text Conversion: Utilizes the Sarvam Audio to Text Translate API to convert audio input from the user into text.
-Visual Captioning: Employs the Groq LLava 1.0 Vision Language Model (VLM) to generate descriptive captions for images.
-Translation: Uses the Sarvam Translate API to convert the generated captions from English to the desired Indic language.
-Text to Speech: Converts the translated text back into speech using the Sarvam Text to Speech API, allowing users to hear the information in their preferred language.
+- Audio to Text Conversion: Utilizes the Sarvam Audio to Text Translate API to convert audio input from the user into text.
+- Visual Captioning: Employs the Groq LLava 1.0 Vision Language Model (VLM) to generate descriptive captions for images.
+- Translation: Uses the Sarvam Translate API to convert the generated captions from English to the desired Indic language.
+- Text to Speech: Converts the translated text back into speech using the Sarvam Text to Speech API, allowing users to hear the information in their preferred language.
 
 Technical Architecture Overview
 The application consists of several key components:

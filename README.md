@@ -1,7 +1,7 @@
 The streamlit doesnt work for now please use the colab notebook to run the code.
 https://colab.research.google.com/drive/18iHI3xTL5yV7J8Ao3f7CA3iTd1Ga4BBG?usp=sharing
 
-Indic Be My Eyes - README
+Indic Be My Eyes
 Project Overview
 Indic Be My Eyes is an AI-powered visual assistance application designed specifically for users who speak Indic languages. This application leverages advanced AI models and APIs to provide real-time assistance by converting audio input into text, generating captions for images, and translating them into the user's preferred Indic language. The application aims to empower visually impaired individuals by providing them with a reliable tool to understand their surroundings through voice interactions.
 
@@ -17,23 +17,33 @@ Frontend: The user interface is currently under development using Streamlit, whi
 Backend: Implemented in Python, the backend handles requests to various APIs and processes the data.
 
 
-Setup Instructions
-To set up the application for local development using Google Colab, 
-https://colab.research.google.com/drive/18iHI3xTL5yV7J8Ao3f7CA3iTd1Ga4BBG?usp=sharing
+# Setup Instructions for Indic Be My Eyes Application
 
-run all the blocks
+To set up the **Indic Be My Eyes** application for local development using Google Colab, follow these steps:
 
-for the final block is interactive
+1. **Open the Google Colab Notebook**:
+   - Click on the following link to access the Colab notebook: [Indic Be My Eyes Colab Notebook](https://colab.research.google.com/drive/18iHI3xTL5yV7J8Ao3f7CA3iTd1Ga4BBG?usp=sharing).
 
-use online speech recording sofware to record your voice and save it as .wav file. Then upload it to the colab notebook
+2. **Run All Code Blocks**:
+   - In the Colab notebook, click on the "Runtime" menu at the top and select "Run all" to execute all the code blocks sequentially. This will set up the necessary libraries and initialize the APIs.
 
-upload the image to the colab notebook and run the code to get the output.
+3. **Interactive Section**:
+   - The final block of the notebook is interactive and allows you to upload audio and image files to process.
 
-the output will be the translated text in the language of your choice
+4. **Record Your Voice**:
+   - Use an online speech recording software such as [Aspose Voice Recorder](https://products.aspose.com/voice-recorder/) to record your voice. Save the recording as a `.wav` file on your local machine.
 
-the final speech will be saved as .wav file
+5. **Upload Audio and Image Files**:
+   - In the Colab notebook, locate the section for uploading files. Use the file upload feature to upload your recorded `.wav` file and the image you want to analyze.
 
-examples are uploded in the repo
+6. **Run the Code to Get the Output**:
+   - After uploading the audio and image files, run the final code block in the notebook. This will process the audio input and image, generating the output.
+
+7. **View the Output**:
+   - The output will include the translated text in the language of your choice. The final speech output will also be generated and saved as a `.wav` file.
+
+8. **Example Files**:
+   - Example audio and image files are uploaded in the repository. You can use these files for testing and demonstration purposes.
 
 
 Future Work

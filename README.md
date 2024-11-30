@@ -34,7 +34,7 @@ To set up the **Indic Be My Eyes** application for local development using Googl
    - The final block of the notebook is interactive and allows you to upload audio and image files to process.
 
 4. **Record Your Voice**:
-   - Use an online speech recording software such as [Aspose Voice Recorder](https://products.aspose.com/voice-recorder/) to record your voice. Save the recording as a `.wav` file on your local machine.
+   - Use an online speech recording software such as [Aspose Voice Recorder](https://products.aspose.app/audio/voice-recorder) to record your voice. Save the recording as a `.wav` file on your local machine.
 
 5. **Upload Audio and Image Files**:
    - In the Colab notebook, locate the section for uploading files. Use the file upload feature to upload your recorded `.wav` file and the image you want to analyze.
